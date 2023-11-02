@@ -1,0 +1,122 @@
+*{
+    
+}
+.container{
+    width:1400px;
+    height:1200px;
+    box-sizing:border-box;
+    background-color: rgb(9, 9, 32);
+}
+.main1div{
+    
+}
+.class1{
+    border: 4px solid grey;
+    margin-top:50px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;;
+    width:350px;
+    height:350px;
+    border-radius: 20px;
+    float:left;
+    /* background-color:gold; */
+    /* display:inline-block; */
+    /* box-shadow: 10px 10px 10px grey; */
+
+}
+.class1img{
+    border-radius: 10px;;
+    border: 3px solid #0c0c0b;
+    /* position: relative; */
+
+     
+}
+.class1para{
+    padding-left: 5px;
+    color: aliceblue;
+    display: inline-block;
+}
+.class2{
+    border: 4px solid grey;
+    margin-top:50px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    width:350px;
+    height:350px;
+    border-radius: 20px;
+    float:left;
+    /* display:inline-block; */
+    /* background-color:gold; */
+  
+    /* box-shadow: 10px 10px 10px grey; */
+}
+.class2img{
+    border-radius: 10px;;
+    border: 3px solid #0c0c0b;
+}
+.class3{
+    border: 4px solid grey;
+    margin-top:50px;
+    margin-bottom:10px;
+    width:350px;
+    height:350px;
+    border-radius:20px;
+    float:left;
+    /* display:inline-block; */
+    /* background-color:gold; */
+
+}
+.class3img{
+    border-radius: 10px;;
+    border: 3px solid #0c0c0b;
+}
+/* blink{
+    color: #2d38be;
+    font-size: 15px;
+    font-weight: bold;
+} */
+.mosh{
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-transform: uppercase;
+    position: relative;
+    right: -190px;
+    top:-70px;
+}
+.moshlogo{
+    object-fit: cover;
+    position: relative;
+    top: 55px;
+    left:130px;
+}
+/* .topparas{
+   float: left;
+    color:white;
+    font-size: 12px;
+    position:relative;
+    right: -200px;
+}
+.toppara1{
+    padding: 4px;
+    float:left;
+
+}
+.toppara2{
+    padding: 4px;
+    float:left;
+}
+.toppara3{
+    padding: 4px;
+    float:left;
+}
+.toppara4{
+    padding: 4px;
+    float:left;
+}
+.toppara5{
+    padding: 4px;
+    float:left;
+} */
